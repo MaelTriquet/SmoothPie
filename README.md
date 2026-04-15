@@ -1,4 +1,4 @@
-# SwiftPie 🍰
+# SmoothPie 🍰
 
 SwiftPie is a lightweight Android launcher focused on speed, gesture-based interaction, and a radial (pie) menu UI.
 
